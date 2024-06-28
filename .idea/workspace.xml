@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6c45429-64e9-4996-b56c-93d0c3362503" name="Changes" comment="" />
+    <list default="true" id="e6c45429-64e9-4996-b56c-93d0c3362503" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,9 @@
       </map>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -46,6 +51,7 @@
     "Python.test.executor": "Run",
     "Python.tylor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Work/Code/PythonProjects/math",
     "node.js.detected.package.eslint": "true",
@@ -194,7 +200,7 @@
       <workItem from="1718673719419" duration="3000" />
       <workItem from="1718673732043" duration="8000" />
       <workItem from="1719464997017" duration="10711000" />
-      <workItem from="1719538145632" duration="21659000" />
+      <workItem from="1719538145632" duration="22480000" />
     </task>
     <servers />
   </component>
