@@ -15,3 +15,7 @@ In 1953, Enrico Fermi criticized Dyson’s model by quoting Johnny von Neumann: 
 ## 🚀 Our Approach
 
 This repository contains the implementation of our method to fit an elephant with four parameters, adhering to the constraints defined in the paper. 🖌️🧮
+
+## 📄 Paper Link
+
+You can read the full paper detailing our approach [here](https://arxiv.org/abs/2407.07909). 📄✨
